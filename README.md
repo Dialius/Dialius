@@ -56,7 +56,7 @@
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=Dialius&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-  ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
+  ![](https://github-profile-trophy.vercel.app/?username=Dialius&title=Stars,Followers)
   
 
 
