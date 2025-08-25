@@ -18,7 +18,7 @@
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,py,cs,php&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,py,cs,php,lua,markdown&theme=dark)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)
@@ -29,9 +29,12 @@
 ### Database
 ![Database](https://skillicons.dev/icons?i=mongo,redis,mysql,firebase&theme=dark)
 
+### Design
+![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)
+
 ### Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=docker,git,aws&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,git,aws,firebase&theme=dark)
 
 </div>
 
