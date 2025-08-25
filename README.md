@@ -55,7 +55,10 @@
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Dialius&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Dialius&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
+  
+
 
 </div>
 
@@ -79,7 +82,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Dialius&label=Profile%20Views&color=brightgreen&style=flat-square)
   
-  [![](https://visitcount.itsvg.in/api?id=Dialius&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![Visitor](https://visitcount.itsvg.in/api?id=Dialius&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
