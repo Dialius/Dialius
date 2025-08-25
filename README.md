@@ -52,7 +52,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Trophies
+## <img src="https://media3.giphy.com/media/3ohhwJPSL00H2r6Rhe/giphy.gif" width="30"> GitHub Trophies
 
 <div align="center">
   
