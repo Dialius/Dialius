@@ -1,11 +1,15 @@
 # Hi there! 👋 I'm DIALIUS
----
 
 <div align="center">
   
   ![Typing SVG](img/standard.gif)
   
+  
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Dialius/Dialius/output/snake.svg" alt="Snake animation" />
 
 
 
@@ -85,7 +89,7 @@
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uvd2qbgtsjw5y47ofkligz3g2u&unique={true|1|on|yes})](https://open.spotify.com/user/31uvd2qbgtsjw5y47ofkligz3g2u?si=58f8422be4904218)
 
 
-  <img src="https://raw.githubusercontent.com/Dialius/Dialius/output/snake.svg" alt="Snake animation" />
+  
 
 
 
