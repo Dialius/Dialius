@@ -13,7 +13,7 @@
 
 
 
-## 💻 Tech Stack & Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Skills
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
   
@@ -51,7 +51,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Trophies
 
 <div align="center">
   
@@ -64,7 +64,7 @@
 
 ---
 
-## 💫 Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 👀 Profile Views
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> Profile Views
 
 <div align="center">
   
@@ -91,8 +91,11 @@
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uvd2qbgtsjw5y47ofkligz3g2u&unique={true|1|on|yes})](https://open.spotify.com/user/31uvd2qbgtsjw5y47ofkligz3g2u?si=58f8422be4904218)
 
+ 
 
-  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 
 
