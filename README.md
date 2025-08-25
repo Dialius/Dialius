@@ -13,7 +13,7 @@
 
 
 
-## Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -51,7 +51,7 @@
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   
