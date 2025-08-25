@@ -21,17 +21,17 @@
 ![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,py,cs&theme=dark)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=light)
+![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
 ### Backend
-![Bakcend](https://skillicons.dev/icons?i=nodejs,php,py&theme=light)
+![Bakcend](https://skillicons.dev/icons?i=nodejs,php,py&theme=dark)
 
 ### Database
-![Database](https://skillicons.dev/icons?i=mongo,redis,mysql&theme=light)
+![Database](https://skillicons.dev/icons?i=mongo,redis,mysql&theme=dark)
 
 ### Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=docker,git,aws&theme=light)
+![Tools](https://skillicons.dev/icons?i=docker,git,aws&theme=dark)
 
 </div>
 
@@ -56,6 +56,7 @@
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=Dialius&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Dialius&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark&column=3&margin-w=15&margin-h=15)
   
 </div>
 
