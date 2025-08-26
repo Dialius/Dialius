@@ -9,6 +9,11 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dialius/Dialius/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Dialius/Dialius/output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://raw.githubusercontent.com/Dialius/Dialius/output/snake.svg" alt="Snake animation" />
 
 
@@ -47,6 +52,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dialius&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   ![](https://github-readme-stats.vercel.app/api?username=Dialius&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Dialius&theme=nightowl&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=Dialius&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
   
 
 </div>
