@@ -3,8 +3,7 @@
 <div align="center">
   
   ![Typing SVG](img/standard.gif)
-  
-  
+    
 </div>
 
 ---
