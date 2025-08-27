@@ -1,4 +1,4 @@
-# Hi there!<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1bnVuZTFkeWV5cjV2d3k3eHlnYzJhYmhwbmx6dzc3bDQydjkwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5A4gz2QktOjs3nYq1U/giphy.gif" width="26">, I'm DIALIUS
+# Hi there!<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1bnVuZTFkeWV5cjV2d3k3eHlnYzJhYmhwbmx6dzc3bDQydjkwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5A4gz2QktOjs3nYq1U/giphy.gif" width="25">, I'm DIALIUS
 
 <div align="center">
   
