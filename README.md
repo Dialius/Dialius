@@ -17,7 +17,7 @@
 <!-- ![Typing SVG](img/pacman-contributions.svg) -->
 
 
-<img src="https://raw.githubusercontent.com/Dialius/Dialius/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dialius/Dialius/output/snake.svg" alt="Snake animation"/>
 
 
 
