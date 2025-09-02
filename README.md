@@ -35,7 +35,7 @@
 ![Bakcend](https://skillicons.dev/icons?i=nodejs,php,py&theme=dark)
 
 ### Database
-![Database](https://skillicons.dev/icons?i=mongo,redis,mysql,firebase,oracle&theme=dark)
+![Database](https://skillicons.dev/icons?i=mongo,redis,mysql,firebase&theme=dark)
 
 ### Design
 ![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)
