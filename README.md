@@ -37,6 +37,9 @@
 ### Database
 ![Database](https://skillicons.dev/icons?i=mongo,redis,mysql,firebase&theme=dark)
 
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=laravel,react,vue,express&theme=dark)
+
 ### Design
 ![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)
 
