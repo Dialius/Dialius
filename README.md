@@ -26,7 +26,7 @@
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,py,cs,php,lua,markdown&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,py,cs,php,lua&theme=dark)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)
@@ -38,7 +38,7 @@
 ![Database](https://skillicons.dev/icons?i=mongo,redis,mysql,firebase&theme=dark)
 
 ### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=laravel,react,vue,express&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=laravel,react,vue,express,vite&theme=dark)
 
 ### Design
 ![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)
