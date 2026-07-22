@@ -1,4 +1,4 @@
-# Vin
+# Dialius
 
 RPL (Software Engineering) student at SMK Telkom Purwokerto, building full-stack web applications and algorithmic trading systems. Currently exploring IDX stock analysis and Expert Advisor development for MetaTrader 5.
 
