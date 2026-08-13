@@ -20,4 +20,4 @@ RPL (Software Engineering) student at SMK Telkom Purwokerto, building full-stack
 
 ## Contact
 
-[Instagram](https://instagram.com/pinisreal) · [GitHub](https://github.com/Dialius) · [linkedin](www.linkedin.com/in/davinza-fattah-dzulhijriyan-syahid)
+[Instagram](https://instagram.com/pinisreal) · [GitHub](https://github.com/Dialius) · [Linkedin](www.linkedin.com/in/davinza-fattah-dzulhijriyan-syahid)
